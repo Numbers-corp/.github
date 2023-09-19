@@ -8,9 +8,8 @@
 
 Si vous avez des questions ou souhaitez en savoir plus sur Number's, n'hésitez pas à nous contacter :
 
-- ✉️ Email : []
-- 🌐 Site Web : [site]
-- [Lien vers les réseaux sociaux, le cas échéant]
+- ✉️ Email : 
+- 🌐 Site Web : 
 
 Nous sommes impatients de vous accueillir au sein de notre communauté et de crée ensemble notre histoire !
 
